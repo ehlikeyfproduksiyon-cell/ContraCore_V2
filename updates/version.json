@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
   "url": "https://github.com/ehlikeyfproduksiyon-cell/ContraCore_V2/releases/download/v1.0.0/ContraCore-Setup-1.0.0.exe",
-  "sha256": "c676d97a0d7c926c279a3c64df8fa72d2f0de4a4a8b6f7634b03d2f1e3ae707c",
+  "sha256": "146f722dffb0ef81c3fdc6d5ce79d3d620cc0df5b45293b5965850b48a2697c4",
   "mandatory": false,
   "min_supported_version": "1.0.0",
-  "notes": "Düzeltmeler ve iyileştirmeler.",
+  "notes": "İlk kararlı sürüm",
   "max_deferrals": 2,
   "defer_button_delay_seconds": 3
 }
